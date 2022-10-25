@@ -1,2 +1,2 @@
 # testPipeline
-demo project to learn working of pipeline in azure
+This is sample project for pipeline
