@@ -2,7 +2,7 @@
   "name": "testpipeline",
   "version": "1.0.0",
   "description": "demo project to learn working of pipeline in azure",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "echo \"Hello\""
