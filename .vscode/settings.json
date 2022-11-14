@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/4086ee36-d2b5-4797-adef-ad1144340909/appservices/subscriptions/4086ee36-d2b5-4797-adef-ad1144340909/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/testPipelineApp",
+  "appService.deploySubpath": "."
+}
